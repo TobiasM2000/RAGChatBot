@@ -5,4 +5,5 @@ chromadb
 openai 
 tiktoken
 chroma-migrate 
-langchain_openai 
+langchain_openai
+python-dotenv
