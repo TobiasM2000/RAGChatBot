@@ -1,9 +1,8 @@
-langchain >= 0.1.14
-unstructured >= 0.13.0
-"unstructured[all-docs]"
-#chromadb >= 0.4.24
-chromadb
-openai == 0.28.1 # https://github.com/langchain-ai/langchain/issues/12943
+langchain
+unstructured 
+unstructured[all-docs]
+chromadb 
+openai 
 tiktoken
-chroma-migrate
-langchain_openai
+chroma-migrate 
+langchain_openai 
