@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#models
+google_w2v_model/*
+
+#chroma
+chroma
+
 # C extensions
 *.so
 
@@ -127,6 +133,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Notebooks/.env
 
 # Spyder project settings
 .spyderproject
