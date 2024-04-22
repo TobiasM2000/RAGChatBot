@@ -1,0 +1,7 @@
+requests
+dotenv
+json
+sklearn
+matplotlib
+numpy
+os
