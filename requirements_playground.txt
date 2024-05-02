@@ -7,3 +7,4 @@ tiktoken
 chroma-migrate 
 langchain_openai
 python-dotenv
+ollama
